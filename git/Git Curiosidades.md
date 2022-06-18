@@ -20,7 +20,7 @@ Hoje, o Git é a melhor escolha para a maioria das equipes de software. Embora c
 
 1. Git é o padrão de várias empresas
 
-​	2. Git é um projeto de código aberto de qualidade
+2. Git é um projeto de código aberto de qualidade
 
 
 
